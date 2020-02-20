@@ -4,7 +4,7 @@
 
 1. Haz fork del proyecto para crear una copia en tu cuenta.
 
-2. Descarga el archivo con el botón verde de la derecha (**Clone or download**), selecciona **Download ZIP** y guárdalo en una carpeta especial para esta tarea.
+2. Descarga el proyecto con el botón verde de la derecha (**Clone or download**), selecciona **Download ZIP** y guárdalo en una carpeta especial para esta tarea.
 
 3. Consulta el documento **Mision_02.docx** para ver los detalles.
 
